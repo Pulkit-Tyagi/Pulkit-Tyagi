@@ -1,0 +1,4 @@
+#Mon Dec 18 16:42:19 IST 2023
+base.0=/Users/apple/StudioProjects/pulkittyagi/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
